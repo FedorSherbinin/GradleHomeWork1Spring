@@ -16,7 +16,7 @@
 1. **Клонируйте репозиторий**:
 
    ```bash
-   git clone <URL-вашего-репозитория>
+   git clone (https://github.com/FedorSherbinin/GradleHomeWork1Spring.git)
    cd GradleHomeWork1Spring
 Соберите проект:
 
